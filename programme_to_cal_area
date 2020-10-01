@@ -1,0 +1,6 @@
+#include<iostream>
+main(){
+int cal_tri_area(){
+return (1/2)*base*height;
+}
+}
