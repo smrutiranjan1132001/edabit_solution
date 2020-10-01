@@ -1,6 +1,7 @@
 #include<iostream>
 main(){
 int cal_tri_area(){
+cout<<"area of triangle is
 return (1/2)*base*height;
 }
 }
